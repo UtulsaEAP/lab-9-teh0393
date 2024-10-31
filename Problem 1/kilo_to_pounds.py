@@ -8,4 +8,4 @@ if __name__ == '__main__':
     kilos = float(input())
     
     pounds = kilo_to_pounds(kilos)
-    print(f'{pounds} lbs')
+    print(f'{pounds:.3f} lbs')
