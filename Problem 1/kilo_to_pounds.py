@@ -1,6 +1,5 @@
 def kilo_to_pounds(kilos):
-    kilo_to_pounds=(kilos*2.204)
-    return(kilo_to_pounds)
+    return(kilos*2.204)
 
 
 # Main part of the program starts here. Do not remove the line below.
