@@ -1,0 +1,7 @@
+days_abc=("Friday", "Monday", "Saturday" , "Sunday", "Thursday" , "Tuesday" , "Wednesday")
+days_ord = (3,1,5,6,4,0,2)
+days_list=[]
+for index in days_ord:
+    aDay=days_abc[index]
+    days_list.append(aDay)
+print(days_list)
